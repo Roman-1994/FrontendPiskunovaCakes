@@ -1,0 +1,16 @@
+.example-card {
+  margin-top: 10px;
+}
+
+.mat-card-title {
+  font-size: 20px !important;
+  font-weight: 800 !important;
+  font-stretch: expanded !important;
+
+}
+
+.mat-card-subtitle {
+  font-size: 12px !important;
+  opacity: .7;
+
+}
